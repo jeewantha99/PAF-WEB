@@ -55,7 +55,7 @@ const HomePage = () => {
         config
       );
       console.log(data);
-      console.log("User verified with JWT token");
+      console.log(" User verified with JWT token ");
       setVerifyState(true);
     } catch (error) {
       console.log(error.response.data.error);
