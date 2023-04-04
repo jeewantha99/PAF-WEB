@@ -1,0 +1,39 @@
+.profile_image{
+    min-width: 85px;
+    min-height: 85px;
+    border:none;
+    margin-left: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.profile_name{
+    font-weight: bold;
+    display: flex;
+    margin-left: 140px;
+    margin-top: 5px;
+
+}
+.profile_username{
+    font-style: italic;
+    display: flex;
+    margin-left: 150px;
+    margin-top: -15px;
+}
+
+.menu_item{
+    margin-top: 10px;
+    display: flex;
+    margin-left: 20px;
+}
+
+.menu_text{
+    margin-top: 7px;
+    margin-left: 10px;
+}
+.side_menu{
+    height: 100vh;
+    flex: 1;
+    height: '100%';
+    background-color: whitesmoke;
+}

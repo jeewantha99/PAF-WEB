@@ -1,0 +1,41 @@
+.post_container{
+    width: 615px;
+    border: none;
+    background-color: white;
+    margin-top: 25px;
+}
+
+.post_header{
+    height: 60px;
+    border-bottom: 1px solid #dbdbdb;
+    display: flex;
+
+}
+
+.user_image{
+    min-width: 45px;
+    min-height: 45px;
+    margin: 10px;
+}
+.post_username{
+    font-weight: bold;
+    margin-top: 10px;
+}
+.post_date{
+    display: flex;
+    max-width: 82px;
+    overflow-x: hidden;
+}
+.userDetails{
+    display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+}
+.post_react_image{
+    width: 40px;
+    margin-right: 5px;
+}
+
+.optins_container{
+    margin-right: 450px;
+}

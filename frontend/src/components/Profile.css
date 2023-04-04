@@ -1,0 +1,59 @@
+.profile_main{
+    max-height: 99vh;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    scroll-behavior: smooth;
+}
+
+.profilepage_username{
+    margin-top: 55px;
+    margin-right: 340px;
+}
+
+.post_count{
+    font-weight: bold;
+    margin-right: 10px;
+}
+.followers_count{
+    margin-left: 20px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.following_count {
+    margin-left: 20px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.analytics{
+    display: flex;
+    margin-left: 175px;
+}
+
+.profile_details{
+    margin-right: 35px;
+    display: block;
+    align-items: baseline;
+}
+
+.profilepage_name{
+margin-right: 290px;
+font-weight: bold;
+}
+.about{
+    margin-top: -25px;
+    margin-left: 180px;
+    display: table-caption;
+    width: 65px;
+}
+
+.post_section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.edit_form{
+    max-height: 99vh;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    scroll-behavior: smooth;
+}
