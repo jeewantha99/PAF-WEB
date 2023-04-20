@@ -19,7 +19,7 @@ const HomePage = () => {
   const [verifyState, setVerifyState] = useState(false);
   const [loginData, setLoginData] = useState(
     JSON.parse(localStorage.getItem("userInfo"))
-  );
+  );   
   const [_id, set_Id] = useState(loginData._id);
 
   const history = useHistory();
