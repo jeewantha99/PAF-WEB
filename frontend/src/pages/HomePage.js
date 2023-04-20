@@ -10,7 +10,7 @@ import VisitorProfile from "../components/VisitorProfile";
 import axios from "axios";
 import Swal from "sweetalert2";
 import { useHistory } from "react-router-dom";
-import Avatar from "@mui/material/Avatar";
+
 
 const HomePage = () => {
   const { selectedUser, setSelectedUser } = UserState();
